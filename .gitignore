@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Sensitive files
+social-security.txt
+*.env
+*.key
